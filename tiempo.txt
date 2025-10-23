@@ -1,0 +1,7 @@
+Tiempo usado: 3 horas, 54 minutos.
+
+Tiempo restante: 5 horas, 6 minutos.
+
+Pendientes:
+- entender bien las funciones de flask (url_for(), render_template()).
+- Los valores de grid-template-columns.
