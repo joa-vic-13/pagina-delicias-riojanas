@@ -1,6 +1,6 @@
-Tiempo usado: 3 horas, 54 minutos.
+Tiempo usado: 5 horas, 7 minutos.
 
-Tiempo restante: 5 horas, 6 minutos.
+Tiempo restante: 7 horas, 53 minutos.
 
 Pendientes:
 - entender bien las funciones de flask (url_for(), render_template()).
